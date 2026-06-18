@@ -39,21 +39,5 @@ app/
 
 ---
 
-## 📸 Скриншоты
 
-Добавить папку `screenshots/` и вставить изображения:
 
-- main.png — главный экран
-- screen2.png — второй экран
-- screen3.png — дополнительные экраны
-
----
-
-## 🚀 Запуск проекта
-
-1. Склонировать репозиторий:
-```bash
-git clone https://github.com/trivi4l/MortgageVision.git
-Открыть в Android Studio
-Дождаться Gradle Sync
-Нажать Run ▶️
